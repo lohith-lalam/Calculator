@@ -18,7 +18,7 @@ A simple calculator application developed during my internship at InternPe.
 
 To get a local copy of the project up and running, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/lohith-lalam/calculator.git`
+1. Clone this repository:https://github.com/lohith-lalam/Calculator----InternPe.git
 2. Open the `index.html` file in your preferred web browser.
 
 
