@@ -36,9 +36,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the [MIT License](LICENSE.txt).
 
-## Contact
-
-If you have any questions, suggestions, or would like to discuss collaboration opportunities, you can reach me at:
-
-- Email: [lohithlalam@outlook.com](mailto:lohithlalam@outlook.com)
-- LinkedIn: [Lohith Lalam](https://www.linkedin.com/in/lohithlalam)
